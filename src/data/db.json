@@ -1,11 +1,6 @@
 {
   "faq": [
     {
-      "question": "Pregunta 1",
-      "answer": "Respuesta a Pregunta 2010 para probar",
-      "id": 1
-    },
-    {
       "id": 2,
       "question": "Pregunta 2",
       "answer": "Respuesta a Pregunta 2015"
